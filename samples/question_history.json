@@ -1,0 +1,20 @@
+[
+  "analyze how python decorators can modify function behavior without changing the original function?",
+  "analyze the complexity trade-off of using a set instead of a list for membership checks in python?",
+  "compare local and global variables in python?",
+  "compare python lists and dictionaries for storing searchable data?",
+  "design a python class structure for representing students, courses, and enrollments?",
+  "design a python generator-based solution for reading a large file without loading it fully into memory?",
+  "evaluate the trade-off between generators and lists when processing large python datasets?",
+  "evaluate the trade-off between inheritance and composition when designing python classes?",
+  "explain the difference between a python list and a tuple?",
+  "explain why exception handling is useful in python programs?",
+  "explain why python functions help make code reusable?",
+  "identify the python data type used to store key-value pairs?",
+  "what is a python dictionary and when would you use it?",
+  "what is a python list?",
+  "what is the basic purpose of a loop in python?",
+  "what is the purpose of a python variable?",
+  "what is the purpose of the print function in python?",
+  "why would you use a dictionary instead of a list in python?"
+]

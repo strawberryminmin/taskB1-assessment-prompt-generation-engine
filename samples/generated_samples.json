@@ -1,0 +1,65 @@
+[
+  {
+    "strategy": "Basic",
+    "domain": "Python",
+    "difficulty": "Easy",
+    "question": "What is the purpose of a Python variable?",
+    "prompt": "Generate one Easy assessment question for Python. Return only the question text."
+  },
+  {
+    "strategy": "Basic",
+    "domain": "Python",
+    "difficulty": "Medium",
+    "question": "Why would you use a dictionary instead of a list in Python?",
+    "prompt": "Generate one Medium assessment question for Python. Return only the question text."
+  },
+  {
+    "strategy": "Basic",
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Evaluate the trade-off between generators and lists when processing large Python datasets?",
+    "prompt": "Generate one Hard assessment question for Python. Return only the question text."
+  },
+  {
+    "strategy": "Structured",
+    "domain": "Python",
+    "difficulty": "Easy",
+    "question": "Identify the Python data type used to store key-value pairs?",
+    "prompt": "Create exactly one assessment question.\nDomain: Python\nDifficulty: Easy\nRules:\n- The question must test a concrete Python concept.\n- The wording must be clear and concise.\n- The difficulty must match Easy learners.\n- Return only valid JSON with keys: question, domain, difficulty."
+  },
+  {
+    "strategy": "Structured",
+    "domain": "Python",
+    "difficulty": "Medium",
+    "question": "Explain why exception handling is useful in Python programs?",
+    "prompt": "Create exactly one assessment question.\nDomain: Python\nDifficulty: Medium\nRules:\n- The question must test a concrete Python concept.\n- The wording must be clear and concise.\n- The difficulty must match Medium learners.\n- Return only valid JSON with keys: question, domain, difficulty."
+  },
+  {
+    "strategy": "Structured",
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Analyze the complexity trade-off of using a set instead of a list for membership checks in Python?",
+    "prompt": "Create exactly one assessment question.\nDomain: Python\nDifficulty: Hard\nRules:\n- The question must test a concrete Python concept.\n- The wording must be clear and concise.\n- The difficulty must match Hard learners.\n- Return only valid JSON with keys: question, domain, difficulty."
+  },
+  {
+    "strategy": "Role-Based",
+    "domain": "Python",
+    "difficulty": "Easy",
+    "question": "What is a Python dictionary and when would you use it?",
+    "prompt": "You are an experienced Python instructor and assessment designer. Write one Easy-level question that fairly evaluates a student's understanding of Python. Keep it practical, unambiguous, and appropriate for the learner level. Return only the question."
+  },
+  {
+    "strategy": "Role-Based",
+    "domain": "Python",
+    "difficulty": "Medium",
+    "question": "Compare local and global variables in Python?",
+    "prompt": "You are an experienced Python instructor and assessment designer. Write one Medium-level question that fairly evaluates a student's understanding of Python. Keep it practical, unambiguous, and appropriate for the learner level. Return only the question."
+  },
+  {
+    "strategy": "Role-Based",
+    "domain": "Python",
+    "difficulty": "Hard",
+    "question": "Evaluate the trade-off between inheritance and composition when designing Python classes?",
+    "prompt": "You are an experienced Python instructor and assessment designer. Write one Hard-level question that fairly evaluates a student's understanding of Python. Keep it practical, unambiguous, and appropriate for the learner level. Return only the question."
+  }
+]
